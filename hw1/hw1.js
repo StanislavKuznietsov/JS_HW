@@ -17,7 +17,7 @@ if (typeof name123 == "string") {
     console.log("Hello" + name123)
 } else {
     console.log("Wrong Data type")
-}
+};
 
 
 
